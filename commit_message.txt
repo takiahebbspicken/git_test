@@ -1,0 +1,1 @@
+Changed git commit command to use Visual Studio code to edit commit messages
